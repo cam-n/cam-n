@@ -1,4 +1,4 @@
-## Hi, I'm Van-Cam Nguyen 👋
+## Hi, I'm Cam Nguyen 👋
 
 AI engineer @ JRCS R&D Lab. I build computer vision and deep learning systems, RAG systems, and agent harnesses, from research to edge deployment.
 
