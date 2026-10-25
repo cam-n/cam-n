@@ -6,7 +6,7 @@ AI Engineer @ JRCS R&D Lab. I build computer vision and deep learning systems, R
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camn-cv/)
 
 ### Focus areas
-Computer Vision · Deep Learning · Depth Perception · Camera Calibration · Edge/HPC · LLM/RAG · Agent Harness
+Computer Vision · Deep Learning · Depth Perception · Camera Calibration · Edge/HPC · OCR · LLM/RAG · Agent Harness
 
 ### Tech stack
 Python · TensorFlow · PyTorch · OpenCV · Docker · Linux · Azure · Kubernetes
